@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "open": "^8.0.0",
-    "reg-gh-app-interface": "^1.2.0",
+    "reg-gh-app-interface": "https://github.com/mj-hd/gh-app/raw/57bd6e485df759077fec71526d27e733a3b4ef36/packages/reg-gh-app-interface/reg-gh-app-interface-1.2.0.tgz",
     "reg-suit-util": "^0.11.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6",

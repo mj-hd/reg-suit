@@ -8065,10 +8065,9 @@ reg-cli@^0.17.0:
     mustache "4.1.0"
     x-img-diff-js "0.3.5"
 
-reg-gh-app-interface@^1.2.0:
+"reg-gh-app-interface@https://github.com/mj-hd/gh-app/raw/57bd6e485df759077fec71526d27e733a3b4ef36/packages/reg-gh-app-interface/reg-gh-app-interface-1.2.0.tgz":
   version "1.2.0"
-  resolved "https://registry.yarnpkg.com/reg-gh-app-interface/-/reg-gh-app-interface-1.2.0.tgz#0961143d75a0f7453b5d07a4fd34591da96e6add"
-  integrity sha512-jgEH91LWOYf7HfoO9HfX2aM71CHZs/V6Yb3yEbECK9CB69an4yNdx24l8dBUdKywesnhE/IzJ3AfOd4a84L0Og==
+  resolved "https://github.com/mj-hd/gh-app/raw/57bd6e485df759077fec71526d27e733a3b4ef36/packages/reg-gh-app-interface/reg-gh-app-interface-1.2.0.tgz#0254850524f2dfdd710418387cc30e47bd25adea"
 
 regenerator-runtime@^0.11.0:
   version "0.11.1"
